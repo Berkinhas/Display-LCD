@@ -84,7 +84,7 @@ Feel free to **open issues** if you find any problems or have suggestions for im
 
 ## 📝 Licence
 
-This project is licensed under the MIT License. See the [LICENSE] file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
