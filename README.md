@@ -56,7 +56,7 @@ Below is a simplified diagram of how to connect the components.
 
 ## 💻 Code
 
-The code for this project is located at `[Nome do Arquivo .ino, ex: lcd_hello_world.ino]`.
+The code for this project is located at `display.ino`.
 
 **Library:**
 
