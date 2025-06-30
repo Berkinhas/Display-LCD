@@ -22,7 +22,7 @@ This project demonstrates how to control a 16x2 LCD display with an Arduino micr
 * **Jumper cables**
 * **Resistor**
 * **USB cable** for Arduino
-* **[Optional: Linear Potentiometer 10K]** For contrast adjust
+* **Optional: Linear Potentiometer 10K** For contrast adjust
 
 ---
 
@@ -84,7 +84,7 @@ Feel free to **open issues** if you find any problems or have suggestions for im
 
 ## 📝 Licence
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
 
 ---
 
